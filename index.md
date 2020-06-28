@@ -5,4 +5,6 @@ Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer
 * helps people in danger
 * wears a mask
 * is intelligent
-
+Spiderman said:
+> "Look, when you can do the things that I can, but you don’t, 
+> and then the bad things happen, they happen because of you."
